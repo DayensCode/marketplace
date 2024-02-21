@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marketplace/static/css/main.cf0cd18a.css",
+    "main.js": "/marketplace/static/js/main.195bc1a6.js",
+    "static/media/promo.jpg": "/marketplace/static/media/promo.3266b145a803ea6064bc.jpg",
+    "static/media/cat-03.jpg": "/marketplace/static/media/cat-03.eb55f780a8fbbaf39b98.jpg",
+    "static/media/cat-01.jpg": "/marketplace/static/media/cat-01.c4e2270f3eab9f7477cf.jpg",
+    "static/media/cat-02.jpg": "/marketplace/static/media/cat-02.da44a5e6d64780d948d6.jpg",
+    "static/media/Shopify.png": "/marketplace/static/media/Shopify.b4131342ebf309c24258.png",
+    "static/media/Amazon.png": "/marketplace/static/media/Amazon.7897112af9316cea076c.png",
+    "static/media/logo.svg": "/marketplace/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
+    "index.html": "/marketplace/index.html",
+    "static/media/arrow.svg": "/marketplace/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/decor-yellow.svg": "/marketplace/static/media/decor-yellow.a14a51327547871fd595.svg",
+    "main.cf0cd18a.css.map": "/marketplace/static/css/main.cf0cd18a.css.map",
+    "main.195bc1a6.js.map": "/marketplace/static/js/main.195bc1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf0cd18a.css",
+    "static/js/main.195bc1a6.js"
+  ]
+}
