@@ -1,15 +1,15 @@
 :root {
-	--textColor: #000;
-
-	--yellow: #EBD96B;
+	--text: #000;
+	--accent: #EBD96B;
 }
 
 body {
 	font-family: 'Poppins', sans-serif;
-	color: var(--textColor);
+	color: var(--text);
 }
 
 .container {
+	border: 1px solid red;
 	max-width: 1780px;
 	margin: 0 auto;
 	padding: 0 30px;
