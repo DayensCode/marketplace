@@ -1,0 +1,62 @@
+.card {
+	display: block;
+	overflow: hidden;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.card:hover .card__image{
+	transform: scale(1.05);
+}
+
+.card:hover .card__icon{
+	animation: slide .5s ease-in-out;
+}
+
+@keyframes slide {
+	0% {
+		left: 0;
+	}
+
+	50% {
+		left: -20px;
+	}
+
+	100% {
+		left: 0px;
+	}
+}
+
+.card__image {
+	margin-bottom: 28px;
+	border-radius: 20px;
+
+	transition: all .2s ease-in-out;
+}
+
+.card__info {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	column-gap: 20px;
+}
+
+.card__title {
+	font-weight: 500;
+	font-size: 32px;
+	letter-spacing: -0.04em;
+	line-height: calc(50/32);
+	color: var(--text);
+}
+
+.card__muted {
+	font-weight: 500;
+	font-size: 24px;
+	line-height: calc(50/24);
+	letter-spacing: -0.04em;
+	color: var(--muted);
+}
+
+.card__icon {
+	position: relative;
+}

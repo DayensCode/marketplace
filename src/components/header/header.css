@@ -40,6 +40,11 @@
 
 .header__list a {
 	color: var(--text);
+	transition: color .2s linear;
+}
+
+.header__list a:hover {
+	color: var(--accent)
 }
 
 a.header__button {

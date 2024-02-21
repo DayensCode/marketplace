@@ -1,0 +1,14 @@
+.arrivals {
+	padding: 120px 0 123px;
+}
+
+.arrivals__title {
+	margin-bottom: 100px;
+	text-transform: uppercase;
+}
+
+.arrivals__list {
+	display: flex;
+	justify-content: space-between;
+	column-gap: 30px;
+}
