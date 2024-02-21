@@ -14,3 +14,12 @@ body {
 	margin: 0 auto;
 	padding: 0 30px;
 }
+
+.flex-container {
+	border: 1px solid red;
+	max-width: 1780px;
+	margin: 0 auto;
+	padding: 0 30px;
+	display: flex;
+	justify-content: center;
+}

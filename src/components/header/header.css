@@ -13,6 +13,7 @@
 	display: flex;
 	align-items: center;
 	column-gap: 13px;
+	color: var(--text);
 }
 
 .header__logo span {
